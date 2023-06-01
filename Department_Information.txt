@@ -1,0 +1,8 @@
+FI03456 Financial
+SA03859 Sales
+MA03184 Marketing
+HR03839 Human_Resource_Management
+OP03768 Operations
+PR03904 Procurement
+CS03052 Customer_Service
+AC03045 Accounts
