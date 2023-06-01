@@ -1,31 +1,3 @@
-/* Name:   and
- * School: Holy Name Convent Secondary School, Port-of-Spain
- * Center #: 160027
- * Candidate Number:
-     160027XXXX M
-     160027XXX W
- * Subject: Computer Science
- * Proficiency: Coding ************
- * Title:
- * Teacher's Name: Michael Jones
- * Program Completion Date: 15th May, 2021
- * Purpose:
- * Input files:
-     Stocks.txt
-     temp.txt
-     Stocks.bak.txt (this is a back up of the Stocks.txt file)
- * Output file(s):
-      Stocks.txt
-      temp.txt
-      Stocks.bak.txt (this is a back up of the Stocks.txt file)
- * Techniques used:
-    - File I/O
-    - Data Structures
-    - Linear search
-    - Bubble sort
-    - Arrays
-    - Sequential, Conditional and Repetitive Logic
- ***********************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
